@@ -1,5 +1,26 @@
 # @backstage/plugin-catalog-import
 
+## 0.4.2
+
+### Patch Changes
+
+- a8953a9c9: This updates the `catalog-import` plugin to omit the default metadata namespace
+  field and also use the short form entity reference format for selected group owners.
+- Updated dependencies [3a58084b6]
+- Updated dependencies [e799e74d4]
+- Updated dependencies [d0760ecdf]
+- Updated dependencies [1407b34c6]
+- Updated dependencies [88f1f1b60]
+- Updated dependencies [bad21a085]
+- Updated dependencies [9615e68fb]
+- Updated dependencies [49f9b7346]
+- Updated dependencies [5c2e2863f]
+- Updated dependencies [3a58084b6]
+- Updated dependencies [2c1f2a7c2]
+  - @backstage/core@0.6.3
+  - @backstage/plugin-catalog-react@0.1.0
+  - @backstage/catalog-model@0.7.2
+
 ## 0.4.1
 
 ### Patch Changes
